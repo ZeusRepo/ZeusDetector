@@ -2,7 +2,7 @@ from requests import get
 import re
 
 
-url = "https://gist.githubusercontent.com/Sathishzus/fe108a94f6bca6d8309ac132a059837b/raw/9bb0be78d77e1133b8c51edfb387bf3c8f244ed6/profanity.txt"
+url = "https://git.io/JnYf3"
 
 
 def get_words():
